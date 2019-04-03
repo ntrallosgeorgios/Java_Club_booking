@@ -1,0 +1,6 @@
+101,Anne,true,Badminton
+102,Fred,true,Badminton,Basketball
+103,Siew,true,Badminton,Basketball
+104,Ryan,true,Badminton
+105,David,false,Basketball
+106,Matthew,true,running
